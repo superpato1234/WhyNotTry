@@ -21,6 +21,7 @@
 		4637287C2C81236B0027D276 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		4637287E2C81236D0027D276 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		463728812C81236D0027D276 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		463728882C8141550027D276 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		4637286C2C81236B0027D276 = {
 			isa = PBXGroup;
 			children = (
+				463728882C8141550027D276 /* README.md */,
 				463728772C81236B0027D276 /* WhyNotTry */,
 				463728762C81236B0027D276 /* Products */,
 			);
